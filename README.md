@@ -13,7 +13,8 @@
 <p>A jornada no mundo da tecnologia pode ser desafiadora. Muitas vezes, nos deparamos com uma infinidade de conteúdos que parecem desconexos e, se não estudarmos de maneira adequada, isso pode se tornar frustrante. Com base nas lições que aprendi ao longo do caminho, decidi dedicar meu perfil a um propósito claro: compartilhar dicas, conhecimentos, oferecer mentoria e orientação para todos os programadores que desejam se destacar.</p>
 <p>A tecnologia transformou minha vida de tantas maneiras e sou grato por todas as experiências que vivi. Agora, meu objetivo é ajudar aqueles que, assim como eu, querem superar obstáculos e encontrar seu caminho como programadores, ou desenvolver softwares e sistemas para seus próprios negócios!</p>
 
-<p></p>
+<p> </p>
+</br>
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Full Stack:</h3>
 
@@ -34,6 +35,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
+<p> </p>
+</br>
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Matheus Willian Bento's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eeymatheusdev&show_icons=true&theme=dracula)
