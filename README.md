@@ -24,7 +24,7 @@
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi&logoColor=E535AB)
+![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi&logoColor=FF0000)
 ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#&logoColor=E535AB)
 
 <h3>⚙️ &nbsp;Banco de dados:</h3>
