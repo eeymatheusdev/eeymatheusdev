@@ -8,10 +8,10 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; Desde a minha infância, a tecnologia me fascina. Com apenas 13 anos, comecei a trabalhar em uma Lan House, o que foi o início de uma jornada cheia de aprendizados e experiências.
-O TI foi minha porta de entrada para o mercado de trabalho, mas após me formar em Ciências da Computação, mergulhei no mundo da programação, no desenvolvimento de softwares.
-A magia de transformar linhas de código em aplicativos e sites é algo simplesmente incrível. A programação me deu a liberdade de transformar ideias em realidade e explorar meu potencial criativo de uma forma única. Ver produtos que criei sendo usados e beneficiando as pessoas é uma sensação indescritível.
-A jornada no mundo da tecnologia pode ser desafiadora. Muitas vezes, nos deparamos com uma infinidade de conteúdos que parecem desconexos e, se não estudarmos de maneira adequada, isso pode se tornar frustrante. Com base nas lições que aprendi ao longo do caminho, decidi dedicar meu perfil a um propósito claro: compartilhar dicas, conhecimentos, oferecer mentoria e orientação para todos os programadores que desejam se destacar.
-A tecnologia transformou minha vida de tantas maneiras e sou grato por todas as experiências que vivi. Agora, meu objetivo é ajudar aqueles que, assim como eu, querem superar obstáculos e encontrar seu caminho como programadores, ou desenvolver softwares e sistemas para seus próprios negócios!
+&nbsp;O TI foi minha porta de entrada para o mercado de trabalho, mas após me formar em Ciências da Computação, mergulhei no mundo da programação, no desenvolvimento de softwares.
+&nbsp;A magia de transformar linhas de código em aplicativos e sites é algo simplesmente incrível. A programação me deu a liberdade de transformar ideias em realidade e explorar meu potencial criativo de uma forma única. Ver produtos que criei sendo usados e beneficiando as pessoas é uma sensação indescritível.
+&nbsp;A jornada no mundo da tecnologia pode ser desafiadora. Muitas vezes, nos deparamos com uma infinidade de conteúdos que parecem desconexos e, se não estudarmos de maneira adequada, isso pode se tornar frustrante. Com base nas lições que aprendi ao longo do caminho, decidi dedicar meu perfil a um propósito claro: compartilhar dicas, conhecimentos, oferecer mentoria e orientação para todos os programadores que desejam se destacar.
+&nbsp;A tecnologia transformou minha vida de tantas maneiras e sou grato por todas as experiências que vivi. Agora, meu objetivo é ajudar aqueles que, assim como eu, querem superar obstáculos e encontrar seu caminho como programadores, ou desenvolver softwares e sistemas para seus próprios negócios!
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
