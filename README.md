@@ -13,6 +13,7 @@
 <p>A jornada no mundo da tecnologia pode ser desafiadora. Muitas vezes, nos deparamos com uma infinidade de conteúdos que parecem desconexos e, se não estudarmos de maneira adequada, isso pode se tornar frustrante. Com base nas lições que aprendi ao longo do caminho, decidi dedicar meu perfil a um propósito claro: compartilhar dicas, conhecimentos, oferecer mentoria e orientação para todos os programadores que desejam se destacar.</p>
 <p>A tecnologia transformou minha vida de tantas maneiras e sou grato por todas as experiências que vivi. Agora, meu objetivo é ajudar aqueles que, assim como eu, querem superar obstáculos e encontrar seu caminho como programadores, ou desenvolver softwares e sistemas para seus próprios negócios!</p>
 
+<p></p>
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Full Stack:</h3>
 
@@ -25,9 +26,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi&logoColor=FF0000)
-![C#](https://img.shields.io/badge/-Sharp-333333?style=flat&logo=sharp&logoColor=E535AB)
 
-<h3>⚙️ &nbsp;Banco de dados:</h3>
+<h3>🗃 &nbsp;Banco de dados:</h3>
 
 ![Oracle](https://img.shields.io/badge/Oracle-333333?style=flat&logo=oracle)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
