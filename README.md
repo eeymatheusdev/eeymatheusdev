@@ -22,7 +22,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind-333333?style=flat&logo=tailwind)
-![Shadcn](https://img.shields.io/badge/Shadcn-333333?style=flat&logo=shadcn)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-333333?style=flat&logo=shadcn)
 ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi&logoColor=FF0000)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
